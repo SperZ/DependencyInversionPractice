@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CarSales.UI/1.0.0": {
+        "dependencies": {
+          "CarSales.ConsoleApp": "1.0.0"
+        },
+        "runtime": {
+          "CarSales.UI.dll": {}
+        }
+      },
+      "CarSales.ConsoleApp/1.0.0": {
+        "runtime": {
+          "CarSales.ConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarSales.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarSales.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
