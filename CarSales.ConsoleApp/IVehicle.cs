@@ -8,6 +8,7 @@
         bool IsNew { get; set; }
         string Make { get; set; }
         int Mileage { get; set; }
+        int Price { get; set; }
         string Model { get; set; }
         int NumberOfKeys { get; set; }
     }
